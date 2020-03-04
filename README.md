@@ -1,4 +1,4 @@
-# Bem-vindos ao CarrinApp
+# CarrinApp
 
 ## Propósito inicial de projeto (04/03/2020)
 - Usar uma câmera no app mobile para identificar um produto de supermercado, a placa referente ao preço, relacionar os dois objetos, comparar com histórico do próprio supermercado com outros supermercados próximos.
